@@ -1,0 +1,129 @@
+{
+  
+    "titleOne":"Բարի Գալուստ",
+    "titleTwo":"Հերոսների էջ",
+    "titleThree":"Նորություններ",
+    "titleFour":"Պատկերասրահ",
+        "openText":"Կարդալ Ավելին",
+        "closeText":"Փակել",
+    "homePage":"Գլխավոր էջ",
+    "wallHero":"Հերոսների Պատ",
+    "news":"Նորություններ",
+    "gallery":"Պատկերասրահ",
+    "captionOne":"Եկեղեցու Կառուցումը",
+    "captionOneParagraph" :"Որպես կարևոր հիմնախնդիր",
+    "captionTwo":"Իմանանք",
+    "captionTwoParagraph" :"Մեր Պատմական վայրերը",
+    "captionThree":"Ճանաչենք",
+    "captionThreeParagraph" :"Մեր Հերոսներին",
+    "legendText":"Ըստ ավանդության՝ սկեսուրը հարսի խոնարհությունը փորձելու համար ձեռքի ճլորը՝ կավե փոքրիկ աման, գցում է շիկացած թոնրի մեջ ու խնդրում նրան, որ հանի՝ «Խա'րս, ճլորը խա՛ն»։ Հարսը իրեն նետում է թոնիրը և այրվում։ Այդ օրվանից գյուղի անունը մնում է Ճլոխան",
+    "area":"Մակերես",
+    "HAL": "ԲԾՄ",
+     "population": "Բնակչություն",
+     "footerTextOne":"Բոլոր Կանոնները պահպանված են։ կայքը ստեղծվել է 2020 թ",
+     "footerTextTwo":"Կայքի հեղինակ: Արամ Մարգարյան, լուսանկարների հեղինակ: Լուպե",
+     "footerTextThree":"Տեղեկությունը Wikipedia Կայքից",
+     "SocialHeader":"Հետևեք մԵր Սոց․ Էջերին",
+     "placeHolder":"Փնտրել Ձեզ հետաքրքրող Հերոսին",
+
+     "galleryContentHeaderOne":"Քաղաքատեղի Դրասխանակերտ",
+     "galleryContentParagraphOne":"Ստեղծման ժամանակահատվածը Ք.ա. 5 դ. – Ք.հ. 4 դ.",
+     "galleryPlaceOne":"Տեղանքի հատվածը։ 0.5 կմ ամ",
+     
+     "galleryContentHeaderTwo":"Քաղաքատեղի Դրասխանակերտ",
+     "galleryContentParagraphTwo":"Ստեղծման ժամանակահատվածը Ք.ա. 5 դ. – Ք.հ. 4 դ.",
+     "galleryPlaceTwo":"Տեղանքի հատվածը։ 0.5 կմ ամ",
+     
+     "galleryContentHeaderThree":" Հուշարձան",
+     "galleryContentParagraphThree":"Ստեղծման ժամանակահատվածը Ք.ա. 5 դ. – Ք.հ. 4 դ.",
+     "galleryPlaceThree":"Տեղանքի հատվածը։ 0.5 կմ ամ",
+
+     "galleryContentHeaderFour":" Հուշարձան` Հերոսների ցանկ",
+     "galleryContentParagraphFour":"Ստեղծման ժամանակահատվածը Ք.ա. 5 դ. – Ք.հ. 4 դ.",
+     "galleryPlaceFour":"Տեղանքի հատվածը։ 0.5 կմ ամ",
+
+     "galleryContentHeaderFive":" Գեներալ-Մայոր Բենիամին Գալստյանի Հուշարձան",
+     "galleryContentParagraphFive":"Ստեղծման ժամանակահատվածը Ք.ա. 5 դ. – Ք.հ. 4 դ.",
+     "galleryPlaceFive":"Տեղանքի հատվածը։ 0.5 կմ ամ",
+
+     "galleryContentHeaderSix":" Գյուղի Եկեղեցին",
+     "galleryContentParagraphSix":"Ստեղծման ժամանակահատվածը։ 1871թ",
+     "galleryPlaceSix":"Տեղանքի հատվածը։ Գյուղամեջ",
+
+     "galleryContentHeaderSeven":" Գյուղի Եկեղեցին",
+     "galleryContentParagraphSeven":"Ստեղծման ժամանակահատվածը։ 1871թ",
+     "galleryPlaceSeven":"Տեղանքի հատվածը։ Գյուղամեջ",
+
+     
+     "galleryContentHeaderEight":" Գյուղի եկեղեցին Արտաքինից",
+     "galleryContentParagraphEight":"Ստեղծման ժամանակահատվածը։ 1871թ",
+     "galleryPlaceEight":"Տեղանքի հատվածը։ Գյուղամեջ",
+
+     "galleryContentHeaderNine":"Թուխ Մանուկ Մատուռ",
+     "galleryContentParagrapNine":"Ստեղծման ժամանակահատվածը Ք.ա. 5 դ. – Ք.հ. 4 դ.",
+     "galleryPlaceNine":"Տեղանքի հատվածը։ 0.5 կմ ամ",
+
+     "galleryContentHeaderTen":"Ընդհանուր Գյուղը Թուխ Մանուկ Մատուռից",
+     "ShoulderStrap":"Զինվ. կոչում / մսն.:",
+
+     "ordenTitle":"Շքանշանի / մեդալի անունը",
+      "seeOrdens":"ՏԵսնել շքանշանները",
+      "closeOrdens":"Փակել",
+
+    "newsParagraphOne":"«Փաշինյան, վառի՛ք-թափի՛ք». բողոքի ակցա Բենիամին համայնքում. ՈՒՂԻՂ",
+    "newsParagraphTwo":" Վարչապետի հրաժարականը պահանջելը անպատասխանատու հայտարարություն է. բողոքի ցույց Բենիամին համայնքում",
+    "seeOnVideo":"Դիտել Այստեղ",
+    "titleTabOne":"Խնդիրներ",
+    "titleTabTwo":"Գյուղի Առօրյան (Լուսանկար)",
+
+    "sunday":"Կիր",
+    "monday":"Երկ",
+    "tuesday":"Երք",
+    "wednesday":"Չրք",
+    "thursday":"Հնգ",
+    "friday":"Ուրբ",
+    "saturday":"Շբթ",
+
+    "jan":"Հնվ",
+    "feb":"Փտր",
+    "mar":"Մրտ",
+    "apr":"Ապր",
+    "may":"Մյս",
+    "june":"Հնս",
+    "july":"Հլս",
+    "aug":"Օգոս",
+    "sep":"Սեպ",
+    "oct":"Հոկ",
+    "nov":"Նոյ",
+    "dec":"Դեկ",
+    "year":"թթ",
+
+    "yearForInfoOne":" 29 Հուն․ 2021",
+    "yearForInfoTwo":" 10 Դեկ 2020",
+
+    "surface":"Մակերես",
+    "ASL":"Բարձրություն ծովի մակարդակից",
+    "Population":"Բնակչություն",
+
+   "heroOneName":"Սամվել Ա․",
+   "heroTwoName":"Հակոբ Ջ․",
+   "heroThreeName":"Իշխան Ն․",
+
+   "heroOneSurname":"Խաչատրյան",
+   "heroTwoSurname":"Հովհաննիսյան",
+   "heroThreeSurname":"Պապիկյան",
+
+   "heroSpecialistOne":"Հրետանավոր",
+   "heroSpecialistTwo":"Դիպուկահար",
+   "heroSpecialistThree":"Հրամանատար",
+   "NameOfOrdenOne":"ԱՀ(ԼՂՀ) 'Մարտական Ծառայություն' մեդալ",
+   "NameOfOrdenTwo":"ԱՀ(ԼՂՀ) 'Արիության Համար' մեդալ",
+   "generalNameAndSurname": "Բենիամին Հ․ Գալստյան",
+   "generalOrdenTitleOne": "Կարմիր Դրոշ",
+   "generalOrdenTitleTwo": "Լենինի Շքանշան",
+   "generalImgTitle": "Գեներալ Մայոր",
+   "TabTitleOne":"Հայրենական Մեծ Մատերազմի Մասնակիցներ",
+   "TabTitleTwo":"Արցախյան Պատերազմի Մասնակիցներ",
+   "leithenantImgTitle": "Ավագ Լեյտենանտ"
+  
+}

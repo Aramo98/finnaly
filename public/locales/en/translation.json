@@ -1,0 +1,133 @@
+{
+   
+    
+   "titleOne":"Welcome to Village Beniamin",
+    "titleTwo":"Heroes Page",
+    "titleThree":"News",
+    "titleFour":"Gallery",
+        "openText":"Read More",
+        "closeText":"Close",
+    "homePage":"Home Page",
+    "wallHero":"Wall of Heroes",
+    "news":"News",
+    "gallery":"Gallery",
+    "captionOne":"The construction of the church",
+    "captionOneParagraph" :"As an important issue ",
+    "captionTwo":"Let's find out",
+    "captionTwoParagraph" :"Our historic sites",
+    "captionThree":"recognize",
+    "captionThreeParagraph" :"Our Heroes",
+    "legendText":" According to tradition, in order to test the humility of the daughter-in-law, the mother-in-law throws the khlor, a small clay pot, into the red-hot oven and asks her to take it out: 'Kha'rs, khlor khan ' The bride throws herself into the toaster and burns herself. Since then, the name of the village remains Chlokhan",
+    "area":"area",
+    "HAL": "height above sea level",
+     "population": "population",
+
+     "footerTextOne":"All Right reserved, site Created 2020 ",
+     "footerTextTwo":"Website author: Aram Margaryan, Photo author: Lupe",
+     "footerTextThree":"Information from the Wikipedia website",
+    "SocialHeader":"Follow our Accounts",
+  
+    
+    "galleryContentHeaderOne":"Township: Draskhanakert",
+     "galleryContentParagraphOne":"The period of creation BC. 5 d. - K.h. 4 d.",
+     "galleryPlaceOne":"Part of the site. 0.5 km am",
+     
+     "galleryContentHeaderTwo":"Township: Draskhanakert",
+     "galleryContentParagraphTwo":"The period of creation BC. 5 d. - K.h. 4 d.",
+     "galleryPlaceTwo":"Part of the site. 0.5 km am",
+     
+     "galleryContentHeaderThree":" memorial",
+     "galleryContentParagraphThree":"The period of creation BC. 5 d. - K.h. 4 d.",
+     "galleryPlaceThree":"Part of the site. 0.5 km am",
+
+     "galleryContentHeaderFour":" Monument - List of Heroes",
+     "galleryContentParagraphFour":"The period of creation BC. 5 d. - K.h. 4 d.",
+     "galleryPlaceFour":"Part of the site. 0.5 km am",
+
+     "galleryContentHeaderFive":" Monument to Major General Beniamin Galstyan",
+     "galleryContentParagraphFive":"The period of creation BC. 5 d. - K.h. 4 d.",
+     "galleryPlaceFive":"Part of the site. 0.5 km am",
+
+     "galleryContentHeaderSix":"Village Church",
+     "galleryContentParagraphSix":"Creation period. 1871",
+     "galleryPlaceSix":"Part of the site. In the countryside",
+
+     "galleryContentHeaderSeven":"Village Church",
+     "galleryContentParagraphSeven":"Creation period. 1871",
+     "galleryPlaceSeven":"Part of the site. In the countryside",
+
+     
+     "galleryContentHeaderEight":" The village church from the outside",
+     "galleryContentParagraphEight":"Creation period. 1871",
+     "galleryPlaceEight":"Part of the site. In the countryside",
+
+     "galleryContentHeaderNine":"Tukh Manuk Chapel",
+     "galleryContentParagrapNine":"The period of creation BC. 5 d. - K.h. 4 d.",
+     "galleryPlaceNine":"Part of the site. 0.5 km am",
+
+     "galleryContentHeaderTen":"The Common Village from Tukh Manuk Chapel",
+
+     "ShoulderStrap":"Military Rank / speacialist",
+
+      "ordenTitle":"Orden / Medal name",
+      "seeOrdens":"See All Ordens",
+      "closeOrdens":"Close",
+      "newsParagraphOne":"protest in Beniamin community. LIVE",
+      "newsParagraphTwo":"Demanding the resignation of the Prime Minister is an irresponsible statement. protest in Beniamin community",
+    "seeOnVideo":"See On Video",
+    "titleTabOne":"Problems",
+    "titleTabTwo":"Village Routine (Photo)",
+
+
+ "sunday":"Sun",
+    "monday":"Mon",
+    "tuesday":"Tue",
+    "wednesday":"Wed",
+    "thursday":"Thu",
+    "friday":"Fri",
+    "saturday":"Sat",
+
+    "jan":"Jan",
+    "feb":"Feb",
+    "mar":"Mar",
+    "apr":"Apr",
+    "may":"May",
+    "june":"Jun",
+    "july":"Jul",
+    "aug":"Aug",
+    "sep":"Sep",
+    "oct":"Oct",
+    "nov":"Nov",
+    "dec":"Dec",
+    "year":"yr",
+    "yearForInfoOne":" 29 Jun․ 2021",
+    "yearForInfoTwo":" 10 Dec․ 2020",
+
+    "surface":"Surface",
+    "ASL":"ASL",
+    "Population":"Population",
+
+    "heroOneName":"Samvel A․",
+   "heroTwoName":"Hakob J.",
+   "heroThreeName":"Ishkhan N.",
+
+   "heroOneSurname":"Khachatryan",
+   "heroTwoSurname":"Hovhannisyan",
+   "heroThreeSurname":"Papikyan",
+
+   "heroSpecialistOne":"Artillerist",
+   "heroSpecialistTwo":"Sniper",
+   "heroSpecialistThree":"Commander",
+   
+   "NameOfOrdenOne":"RA(NKR) 'Combat Service' Medal",
+   "NameOfOrdenTwo":"RA(NKR) 'For Bravery' Medal",
+   "generalNameAndSurname": "Beniamin H. Galstyan",
+   "generalOrdenTitleOne": "Red Flag",
+   "generalOrdenTitleTwo": "Orden Lenin",
+   "generalImgTitle": "General-Major",
+  
+   "TabTitleOne":"Participants of the Great Patriotic War",
+   "TabTitleTwo":"Participants of the Artsakh War(First,Second)",
+       "leithenantImgTitle": "Senior Lieutenant"
+
+}

@@ -1,0 +1,135 @@
+#heroesBlock{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    position: relative;
+   #cardHeader{
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    &:hover{
+        .ordenBtn{
+            visibility: visible;
+        opacity: 1;
+        }
+    }
+    .ordenBtn{
+        visibility: hidden;
+        opacity: 0;
+        transition: all 0.5s ease;
+    }
+    h4{
+        color: #000;
+    }
+   }
+    #imgBox{
+        width: 300px;
+        height: 350px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        &:hover{
+            .ordenBtn{
+                visibility: visible;
+                opacity: 1;
+            }
+        }
+      
+        #img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .OrdensBlock{
+            position: absolute;
+            bottom: 15px;
+            right: 0px;
+            width: 100%;
+            height: 0;
+            overflow: hidden;
+            background-color: #fff;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+            flex-direction: column;
+            transition: all 0.5s ease;
+            gap: 15px;
+            padding-left: 15px;
+            filter: drop-shadow(2px 5px 10px #000);
+         .ordensImg{
+            width: 45px;
+            height:  80px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+         }
+         .ordensImgOne{
+            width: 110px;
+            height: 130px;
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+         }
+         .ordensImgTwo{
+            width: 74px;
+            height: 135px;
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+         }
+         h4{
+            z-index: 3;
+            color: #000;
+            font-size: 15px;
+         }
+         p{
+            color: #000;
+         }
+        }
+    }
+}
+ #searchBox{
+   width: 100%;
+   height: 100%;
+   padding: 15px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ .inputField{
+    &::placeholder{
+        text-align: center;
+    }
+ }
+
+ .ShoulderStrap{
+    width: 20px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(90deg);
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+ }
+
+ .topBlock{
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+ }

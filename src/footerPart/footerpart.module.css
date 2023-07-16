@@ -1,0 +1,111 @@
+footer {
+  width: 100%;
+  height: auto;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-left: 15px;
+  box-shadow: 2px 5px 10px #ccc;
+  padding-right: 15px;
+  transition: all 0.5s ease;
+}
+footer .FooterMutual {
+  width: 100%;
+  height: 500px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+}
+footer .FooterMutual .mapBlock {
+  width: 600px;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer .FooterMutual .mapBlock iframe {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+footer .FooterMutual .sclBlock {
+  width: 300px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+footer .FooterMutual .sclBlock .socials ul {
+  list-style-type: none;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 25%;
+  height: 198px;
+  position: relative;
+}
+footer .FooterMutual .sclBlock .socials ul li {
+  position: relative;
+  transition: all 0.5s ease;
+}
+footer .FooterMutual .sclBlock .socials ul li .facebook {
+  background-color: blue;
+  text-decoration: none;
+  color: #fff;
+  padding: 15px 30px;
+  transition: all 0.5s ease;
+  position: relative;
+  font-size: 20px;
+}
+footer .FooterMutual .sclBlock .socials ul li .instagram {
+  background: linear-gradient(180deg, #405DE6, #5B51D8, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+  text-decoration: none;
+  color: #fff;
+  padding: 15px 30px;
+  transition: all 0.5s ease;
+  position: relative;
+  font-size: 20px;
+}
+footer .FooterMutual .sclBlock .socials ul li .twitter {
+  background-color: rgb(5, 123, 197);
+  text-decoration: none;
+  color: #fff;
+  padding: 15px 30px;
+  transition: all 0.5s ease;
+  position: relative;
+  font-size: 20px;
+}
+footer .FooterMutual .sclBlock .socials ul li:hover {
+  transform: translateX(15px);
+}
+footer #lastFooter {
+  padding: 15px;
+  height: 100%;
+}
+
+@media screen and (max-width: 991px) {
+  footer .FooterMutual .sclBlock .socials ul {
+    align-items: flex-start;
+  }
+  footer .FooterMutual .sclBlock .socials ul li .facebook {
+    padding: 10px 20px;
+  }
+  footer .FooterMutual .sclBlock .socials ul li .instagram {
+    padding: 10px 20px;
+  }
+  footer .FooterMutual .sclBlock .socials ul li .twitter {
+    padding: 10px 20px;
+  }
+  footer #lastFooter {
+    height: 100%;
+    flex-direction: column;
+  }
+}/*# sourceMappingURL=footerpart.module.css.map */

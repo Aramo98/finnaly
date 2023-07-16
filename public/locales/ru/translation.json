@@ -1,0 +1,135 @@
+{
+ "titleOne":"Добро Пожаловать",
+     "titleTwo":"Стена Героев",
+     "titleThree":"Новости",
+     "titleFour":"Галерея",
+    "openText":"Читать Дальше",
+    "closeText":"Закрыть",
+    "homePage":"Главная страница",
+    "wallHero":"Стена Героев",
+    "news":"Новости",
+    "gallery":"Галерея",
+    "captionOne":"Строительство Церкви",
+    "captionOneParagraph" :"Как важный вопрос",
+    "captionTwo":"Давай выясним",
+    "captionTwoParagraph" :"наши исторические места",
+    "captionThree":"знать",
+    "captionThreeParagraph" :"Наше Героям",
+    "legendText":" Согласно традиции, свекровь проверяла смирение невестки глиняной куклой в руке.бросает чашу в раскаленную печь и просит его вынуть: 'Ха'рс, хлор' хан!' Невеста для себя бросает тостер и сжигает. С тех пор название села осталось Члохан.",
+    "area":"Поверхность",
+    "HAL": "Высота над уровнем моря",
+     "population": "Население",
+
+
+    
+     "footerTextOne":"Все права зашишены, саит создана 2020 г ",
+     "footerTextTwo":"автор веб-сайта: Арам Маргарян, автор фото: Лупе",
+     "footerTextThree":"Информация Wikipeda Веб-саит",
+     "SocialHeader":"Подписайте наш соц.сети",
+     "placeHolder":"Найдите ваше интересный Герой",
+
+
+     "galleryContentHeaderOne":"Поселок: Драсханакерт",
+     "galleryContentParagraphOne":"Период создания до н.э. 5 д. - К.х. 4 д.",
+     "galleryPlaceOne":"Часть сайта. 0,5 км на запад",
+     
+     "galleryContentHeaderTwo":"Поселок: Драсханакерт",
+     "galleryContentParagraphTwo":"Период создания до н.э. 5 д. - К.х. 4 д.",
+     "galleryPlaceTwo":"Часть сайта. 0,5 км на запад",
+     
+     "galleryContentHeaderThree":" Памятник",
+     "galleryContentParagraphThree":"Период создания до н.э. 5 д. - К.х. 4 д.",
+     "galleryPlaceThree":"Часть сайта. 0,5 км на запад",
+
+     "galleryContentHeaderFour":" Памятник - Список Героев",
+     "galleryContentParagraphFour":"Период создания до н.э. 5 д. - К.х. 4 д.",
+     "galleryPlaceFour":"Часть сайта. 0,5 км на запад",
+
+     "galleryContentHeaderFive":"Памятник генерал-майору Бениамину Галстяну",
+     "galleryContentParagraphFive":"Период создания до н.э. 5 д. - К.х. 4 д.",
+     "galleryPlaceFive":"Часть сайта. 0,5 км на запад",
+
+     "galleryContentHeaderSix":"Сельская церковь",
+     "galleryContentParagraphSix":"Период создания до 1871г",
+     "galleryPlaceSix":"Часть сайта. В сельской местности",
+
+     "galleryContentHeaderSeven":"Сельская церковь",
+     "galleryContentParagraphSeven":"Период создания до 1871г",
+     "galleryPlaceSeven":"Часть сайта. В сельской местности",
+
+     
+     "galleryContentHeaderEight":" Сельская церковь снаружи.",
+     "galleryContentParagraphEight":"Период создания до 1871г",
+     "galleryPlaceEight":"Часть сайта. В сельской местности",
+
+     "galleryContentHeaderNine":"Тух Манук",
+     "galleryContentParagrapNine":"Период создания до н.э. 5 д. - К.х. 4 д.",
+     "galleryPlaceNine":"Часть сайта. 0,5 км на запад",
+
+     "galleryContentHeaderTen":"Деревня от часовни Тух Манук",
+     "ShoulderStrap":"Звание",
+
+     "ordenTitle":"Назваеие Медаль / Орден",
+     "seeOrdens":"Смотреть все Ордена",
+     "closeOrdens":"Закрыть",
+     "newsParagraphOne":"протест в общине Бениамин. ЭФИР",
+     "newsParagraphTwo":"Требование отставки премьер-министра является безответственным заявлением. протест в общине Бениамин",
+     "seeOnVideo":"Смотреть здесь!",
+     "titleTabOne":"Проблемы",
+     "titleTabTwo":"Деревенские будни (фото)",
+
+     "sunday":"Вос",
+    "monday":"Пон",
+    "tuesday":"Вто",
+    "wednesday":"Срд",
+    "thursday":"Чтв",
+    "friday":"Пят",
+    "saturday":"Сбт",
+
+    "jan":"Янв",
+    "feb":"Фев",
+    "mar":"Мар",
+    "apr":"Апр",
+    "may":"Май",
+    "june":"Йюн",
+    "july":"Йюл",
+    "aug":"Авг",
+    "sep":"Сен",
+    "oct":"Окт",
+    "nov":"Ноя",
+    "dec":"Дек",
+    "year":"г",
+     "yearForInfoOne":" 29 Июнь․ 2021",
+     "yearForInfoTwo":" 10 Дек․ 2020",
+
+     "surface":"Поверхность",
+     "ASL":"Высота над уровнем моря",
+     "Population":"Население",
+
+     
+    "heroOneName":"Самвел А.",
+    "heroTwoName":"Акоб Дж.",
+    "heroThreeName":"Ишхан Н.",
+ 
+    "heroOneSurname":"Хачатрян",
+    "heroTwoSurname":"Оганнисян",
+    "heroThreeSurname":"Папикян",
+ 
+    "heroSpecialistOne":"Артиллерист",
+    "heroSpecialistTwo":"Снайперист",
+    "heroSpecialistThree":"Командир",
+ 
+    "NameOfOrdenOne":"РА (НКР) 'Боевая служба' Медаль",
+    "NameOfOrdenTwo":"РА (НКР) 'За Отвагу' Медаль",
+
+    "generalNameAndSurname": "Бениамин И. Галстян",
+    "generalOrdenTitleOne": "Красная Флага",
+   "generalOrdenTitleTwo": "Орден Ленина",
+    "generalImgTitle": "Генерал-Майор",
+    "TabTitleOne":"Участники Великой Отечественной войны",
+    "TabTitleTwo":"Участники Арцахской войны (Первый,Второй)",
+    "leithenantImgTitle": "Старший Лейтенант"
+
+}
+
+

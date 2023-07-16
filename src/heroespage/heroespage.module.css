@@ -1,0 +1,139 @@
+#heroesBlock {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  position: relative;
+}
+#heroesBlock #cardHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#heroesBlock #cardHeader:hover .ordenBtn {
+  visibility: visible;
+  opacity: 1;
+}
+#heroesBlock #cardHeader .ordenBtn {
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.5s ease;
+}
+#heroesBlock #cardHeader h4 {
+  color: #000;
+}
+#heroesBlock #imgBox {
+  width: 300px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+#heroesBlock #imgBox:hover .ordenBtn {
+  visibility: visible;
+  opacity: 1;
+}
+#heroesBlock #imgBox #img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#heroesBlock #imgBox .OrdensBlock {
+  position: absolute;
+  bottom: 15px;
+  right: 0px;
+  width: 100%;
+  height: 0;
+  overflow: hidden;
+  background-color: #fff;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  transition: all 0.5s ease;
+  gap: 15px;
+  padding-left: 15px;
+  filter: drop-shadow(2px 5px 10px #000);
+}
+#heroesBlock #imgBox .OrdensBlock .ordensImg {
+  width: 45px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#heroesBlock #imgBox .OrdensBlock .ordensImg img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#heroesBlock #imgBox .OrdensBlock .ordensImgOne {
+  width: 110px;
+  height: 130px;
+}
+#heroesBlock #imgBox .OrdensBlock .ordensImgOne img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#heroesBlock #imgBox .OrdensBlock .ordensImgTwo {
+  width: 74px;
+  height: 135px;
+}
+#heroesBlock #imgBox .OrdensBlock .ordensImgTwo img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#heroesBlock #imgBox .OrdensBlock h4 {
+  z-index: 3;
+  color: #000;
+  font-size: 15px;
+}
+#heroesBlock #imgBox .OrdensBlock p {
+  color: #000;
+}
+
+#searchBox {
+  width: 100%;
+  height: 100%;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputField::-moz-placeholder {
+  text-align: center;
+}
+
+.inputField::placeholder {
+  text-align: center;
+}
+
+.ShoulderStrap {
+  width: 20px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(90deg);
+}
+.ShoulderStrap img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.topBlock {
+  width: 100%;
+  height: auto;
+  background-color: aqua;
+}/*# sourceMappingURL=heroespage.module.css.map */
